@@ -1,0 +1,133 @@
+{
+    
+    "notices": [
+        {
+            "title": "Cyber Monday",
+            "description": "#",
+            "bannerimage": "#",
+            "bannerlink": "#",
+            "status": "1"
+        }
+    ],
+
+    "categories": [
+        {
+            "name": "Menu Layout",
+            "catkey": "menulayout"
+        }
+    ],
+    
+    "templates": [
+        {
+            "id": "mega_menu_layout_1",
+            "title": "Menu Layout One",
+            "thumbnail": "https://api.hasthemes.com/api/megamenu/layout-img/menu_layout_1.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "http://demo.shrimpthemes.com/1/megamenu/home-two/",
+            "category": "mega menu",
+            "tags": "Mega Menu",
+            "is_pro": "0"
+        },
+        {
+            "id": "mega_menu_layout_2",
+            "title": "Menu Layout Two",
+            "thumbnail": "https://api.hasthemes.com/api/megamenu/layout-img/menu_layout_2.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "http://demo.shrimpthemes.com/1/megamenu/home-two/",
+            "category": "mega menu",
+            "tags": "Mega Menu",
+            "is_pro": "0"
+        },
+        {
+            "id": "mega_menu_layout_3",
+            "title": "Menu Layout Three",
+            "thumbnail": "https://api.hasthemes.com/api/megamenu/layout-img/menu_layout_3.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "http://demo.shrimpthemes.com/1/megamenu/home-two/",
+            "category": "mega menu",
+            "tags": "Mega Menu",
+            "is_pro": "0"
+        },
+        {
+            "id": "mega_menu_layout_4",
+            "title": "Menu Layout Four",
+            "thumbnail": "https://api.hasthemes.com/api/megamenu/layout-img/menu_layout_4.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "http://demo.shrimpthemes.com/1/megamenu/home-two/",
+            "category": "mega menu",
+            "tags": "Mega Menu",
+            "is_pro": "0"
+        },
+        {
+            "id": "mega_menu_layout_5",
+            "title": "Menu Layout Five",
+            "thumbnail": "https://api.hasthemes.com/api/megamenu/layout-img/menu_layout_5.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "http://demo.shrimpthemes.com/1/megamenu/home-two/",
+            "category": "mega menu",
+            "tags": "Mega Menu",
+            "is_pro": "0"
+        },
+        {
+            "id": "mega_menu_layout_6",
+            "title": "Menu Layout Six",
+            "thumbnail": "https://api.hasthemes.com/api/megamenu/layout-img/menu_layout_6.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "http://demo.shrimpthemes.com/1/megamenu/home-two/",
+            "category": "mega menu",
+            "tags": "Mega Menu",
+            "is_pro": "1"
+        },
+        {
+            "id": "mega_menu_layout_7",
+            "title": "Menu Layout Seven",
+            "thumbnail": "https://api.hasthemes.com/api/megamenu/layout-img/menu_layout_7.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "http://demo.shrimpthemes.com/1/megamenu/home-two/",
+            "category": "mega menu",
+            "tags": "Mega Menu",
+            "is_pro": "1"
+        },
+        {
+            "id": "mega_menu_layout_8",
+            "title": "Menu Layout Eight",
+            "thumbnail": "https://api.hasthemes.com/api/megamenu/layout-img/menu_layout_8.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "http://demo.shrimpthemes.com/1/megamenu/home-two/",
+            "category": "mega menu",
+            "tags": "Mega Menu",
+            "is_pro": "1"
+        },
+        {
+            "id": "mega_menu_layout_9",
+            "title": "Menu Layout Nine",
+            "thumbnail": "https://api.hasthemes.com/api/megamenu/layout-img/menu_layout_9.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "http://demo.shrimpthemes.com/1/megamenu/home-two/",
+            "category": "mega menu",
+            "tags": "Mega Menu",
+            "is_pro": "1"
+        },
+        {
+            "id": "mega_menu_layout_10",
+            "title": "Menu Layout Ten",
+            "thumbnail": "https://api.hasthemes.com/api/megamenu/layout-img/menu_layout_10.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demourl": "http://demo.shrimpthemes.com/1/megamenu/home-two/",
+            "category": "mega menu",
+            "tags": "Mega Menu",
+            "is_pro": "1"
+        }
+        
+    ]
+}

@@ -1,0 +1,29 @@
+#htinstagram_widgets_style_tabs h2,#htinstagram_shortcodeopt_tabs h2{
+    display: none;
+}
+#htinstagram_widgets_style_tabs h2.htinstaop-headding{
+    display: block;
+    margin: 0;
+}
+.form-table .htoptions_headding_table_row th{
+    padding: 0;
+}
+.form-table .htseperator{
+    border-top: 1px solid #ddd;
+}
+#htinstagram_widgets_style_tabs .htseperator h2.htinstaop-headding{
+    margin-top: 10px;
+}
+/* Shortcode Options table */
+.htinstagram_widgets_opt{
+    border-collapse: collapse;
+}
+table.htinstagram_widgets_opt th, table.htinstagram_widgets_opt td {
+  border: 1px solid #999;
+  padding: 10px;
+  text-align: left;
+}
+.httablehedding{
+    font-weight: 700;
+    font-size: 14px;
+}

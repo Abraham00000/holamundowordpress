@@ -1,0 +1,436 @@
+.spinner.loading {
+  visibility: visible;
+}
+/*============Menu option=================*/
+.field-menuposition .edit-menu-item-menuposition,
+.field-template .edit-menu-item-template{}
+ul#menu-to-edit li.menu-item-depth-6 .hidn,
+ul#menu-to-edit li.menu-item-depth-5 .hidn,
+ul#menu-to-edit li.menu-item-depth-4 .hidn,
+ul#menu-to-edit li.menu-item-depth-3 .hidn,
+ul#menu-to-edit li.menu-item-depth-2 .field-enablemegamenu,
+ul#menu-to-edit li.menu-item-depth-2 .field-menuposition,
+ul#menu-to-edit li.menu-item-depth-2 .field-template ,
+ul#menu-to-edit li.menu-item-depth-2 .field-menuwidth ,
+ul#menu-to-edit li.menu-item-depth-1 .field-template ,
+ul#menu-to-edit li.menu-item-depth-1 .field-menuwidth ,
+ul#menu-to-edit li.menu-item-depth-1 .cs-fieldset,
+ul#menu-to-edit li.menu-item-depth-1 .field-menuposition,
+ul#menu-to-edit li.menu-item-depth-1 .field-enablemegamenu ,
+ul#menu-to-edit li.menu-item-depth-0 .cs-fieldset ,
+ul#menu-to-edit li.menu-item-depth-0 .field-columntitle{
+    display: none;
+}
+.menu-settings {
+  clear: both;
+}
+.menu-item-edit-active .menu-item-settings {
+  float: left;
+  margin-bottom: 10px;
+}
+.htmenu-pro-badge {
+  color: red;
+}
+
+/* Admin Options CSS */
+.htmegamenu-plugins-row {
+  display: flex;
+  flex-flow: row wrap;
+  margin-left: -15px;
+  overflow: hidden;
+}
+.htmegamenu-plugins-row * {
+  box-sizing: border-box;
+}
+.htmegamenu-single-plugins {
+  float: left;
+  margin-bottom: 30px;
+  padding: 0 15px;
+  width: 25%;
+}
+.htmegamenu-single-plugins img{
+    width: 100%;
+}
+.htmegamenu-button {
+  border: 1px solid #ccc;
+  color: #23282d;
+  display: inline-block;
+  padding: 7px 20px;
+  text-decoration: none;
+  transition: all 0.4s ease 0s;
+}
+.htmegamenu-button:hover {
+  background: #0085ba none repeat scroll 0 0;
+  border-color: #0085ba;
+  color: #fff;
+}
+#htmegamenu_plugins_tabs .htmenu-submit-button,#htmegamenu_general_tabs .htmenu-submit-button,#htmegamenu_general_tabs h2,#htmegamenu_template_tabs h2,#htmegamenu_template_tabs .htmenu-submit-button{
+  display: none;
+}
+.htmegamenu-document-section {
+  margin-top: 25px;
+  overflow: hidden;
+}
+.htmegamenu-column {
+  float: left;
+  padding: 0 15px;
+}
+.htmegamenu-section-title {
+  font-size: 20px;
+  padding-left: 15px;
+}
+.features-list-area {
+  border: 1px solid #ddd;
+  float: left;
+  margin: 0 15px;
+  padding: 0 15px;
+}
+.features-list-area li {
+  font-size: 16px;
+  padding: 4px 0 4px 5px;
+  position: relative;
+}
+.features-list-area li::before {
+  content: "";
+  font-family: dashicons;
+  left: -5px;
+  position: relative;
+  top: 2px;
+}
+.features-list-area li.htdel::before {
+  content: "";
+}
+.features-list-area .button.button-primary{
+  margin: 5px 0 20px;
+}
+.htmega-dialog-content {
+  text-align: center;
+}
+.htmega-dialog-content > span {
+  float: left;
+  margin-bottom: 30px;
+  width: 100%;
+}
+.htmega-dialog-content i {
+  font-size: 40px;
+}
+.htmega-dialog-content > p {
+  font-size: 18px;
+}
+.htmegamenu-pro .selector-button {
+  pointer-events: none;
+}
+.htmegamenu-img {
+  float: left;
+  width: 125px;
+}
+.htfree-plugins .htmegamenu-plugins-content {
+  float: left;
+  padding-left: 25px;
+  width: calc(100% - 125px);
+}
+.htmegamenu-plugins-content span {
+  color: #FF0000;
+}
+
+
+/* 
+* Template Laibrary Start
+*/
+.httemplate-row{}
+
+/* Top bar */
+.httemplate-top-banner-area {
+  background: #22b9ff none repeat scroll 0 0;
+  margin-right: 15px;
+  margin-top: 20px;
+  padding: 20px;
+}
+.htbanner-content {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row wrap;
+}
+.htbanner-content h3{
+  margin: 0;
+  color: #fff;
+  line-height: 24px;
+}
+.htbanner-content a {
+  background: #d30c5c none repeat scroll 0 0;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  color: #fff;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 8px 15px;
+  text-decoration: none;
+  transition: all 0.4s ease 0s;
+}
+.htbanner-content a:hover{
+  background: #fff;
+  border-color: #333;
+  color: #333;
+}
+.htbanner-desc p {
+  color: #fff;
+  font-weight: 600;
+  margin: 5px 0 0;
+}
+
+/* Tab panel */
+.htmega-admin-tab-pane{
+  display: none;
+}
+.htmega-admin-tab-pane.httabactive{
+  display: block;
+}
+.httemplate-row .htmega-admin-tab-pane{
+  margin-left: -15px;
+  overflow: hidden;
+}
+.htmega-admin-tabs li{
+    display: inline-block;
+    margin-right: 15px;
+}
+.htmega-admin-tabs li:last-child{
+    margin-right: 0;
+}
+.httemplate-row .htmega-admin-tabs li a {
+  background: #428bfa none repeat scroll 0 0;
+  border-radius: 3px;
+  color: #fff;
+  display: block;
+  font-weight: 600;
+  padding: 8px 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all 0.4s ease 0s;
+  border: none;
+}
+.httemplate-row .htmega-admin-tabs li a:focus{
+  box-shadow: none;
+}
+.httemplate-row .htmega-admin-tabs li a:hover, .httemplate-row .htmega-admin-tabs li a.httabactive{
+  background: #d30c5c;
+  border-color: #d30c5c;
+}
+.htmega-admin-tab-area {
+  margin: 20px 0 15px;
+}
+
+#tp-grid {
+  margin-left: 0 !important;
+  margin-top: 35px !important;
+}
+.tp-grid{
+  overflow: hidden !important;
+}
+#tp-grid li {
+  width: 20% !important;
+}
+#htmega-tmp-name {
+  text-transform: uppercase;
+}
+.tp-grid .httemplate-action{
+  display: none;
+}
+
+.htpackage-tp-title {
+  background: #fff;
+  display: block;
+  width: 100%;
+  padding: 15px;
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+.htpackage-tp-title h3{
+  text-transform: capitalize;
+  font-size: 16px;
+  font-weight: 700;
+  color: #000;
+  margin: 0;
+}
+.htpackage-tp-title p {
+  margin: 5px 0 0;
+}
+.htpackage-tp-title span {
+  margin-right: 5px;
+}
+
+.htmega-loader {
+  text-align: center;
+}
+#htmegaclose {
+  cursor: pointer;
+  font-size: 16px;
+  display: none;
+  transition: 0.4s;
+}
+#htmegaclose:hover{
+  color: #d30c5c;
+}
+.htmega-topbar {
+  display: none;
+  justify-content: space-between;
+  margin-right: 15px;
+  align-items: center;
+  background: #fff;
+  padding: 15px 16px;
+}
+.htmega-topbar h3{
+  margin: 0;
+}
+
+.httemplate-row .htsingle-templates-laibrary {
+  float: left;
+  margin-bottom: 30px;
+  padding: 0 15px;
+  width: 100%;
+}
+.httemplate-row .htsingle-templates-laibrary img{
+  width: 100%;
+}
+.httemplate-thumbnails {
+  overflow: hidden;
+  position: relative;
+}
+.httemplate-content {
+  background: #fff none repeat scroll 0 0;
+  padding: 15px;
+  text-align: center;
+}
+.httemplate-content h3 {
+  font-size: 16px;
+  margin: 0;
+}
+.httemplate-content span {
+  color: red;
+  display: none;
+}
+.httemplate-tags {
+  color: #888;
+  margin-top: 5px;
+}
+
+.httemplate-action {
+  background: #333 none repeat scroll 0 0;
+  bottom: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  right: 0;
+  z-index: 2;
+  transition: 0.4s;
+}
+.httemplate-row .htsingle-templates-laibrary *, .httemplate-row .htsingle-templates-laibrary *::after, .httemplate-row .htsingle-templates-laibrary *::before,.httemplate-row .htsingle-templates-laibrary {
+  box-sizing: border-box;
+}
+.httemplate-action a {
+  color: #fff;
+  flex: 0 0 50%;
+  font-size: 14px;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.4s ease 0s;
+}
+.httemplate-action a:first-child:not(:last-child) {
+  border-right: 1px solid rgba(255,255,255, 0.2);
+}
+.httemplate-action a:hover{
+  background: #0085ba none repeat scroll 0 0;
+}
+
+/*Pop Up*/
+.httemplate-popupcontent {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  min-height: 200px;
+  position: relative;
+}
+.htspinner {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  display: none;
+}
+.htspinner.loading{
+  display: block;
+}
+.htspinner::before {
+  background: rgba(0, 0, 0, 0) url("../images/ajax-loader.gif") no-repeat scroll center center / 100px 100px;
+  content: "";
+  height: 100%;
+  left: 0;
+  opacity: 1;
+  position: absolute;
+  top: 0;
+  visibility: visible;
+  width: 100%;
+}
+
+.htpopupcontent p,.htmessage p {
+  font-size: 18px;
+  margin: 0;
+}
+.wlimpbtn,.htmessage a {
+  background: #333 none repeat scroll 0 0;
+  color: #fff;
+  display: inline-block;
+  font-size: 14px;
+  margin: 15px 0;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.4s ease 0s;
+}
+.wlimpbtn:focus{
+  background: #333 none repeat scroll 0 0;
+  outline: none;
+  color: #fff;
+  box-shadow: none;
+}
+.wlimpbtn:hover,.htmessage a:hover{
+  background: #0085ba none repeat scroll 0 0;
+  color: #fff;
+  outline:none;
+}
+
+.htpageimportarea .wlimpbtn{
+  margin: 0;
+}
+.htpageimportarea {
+  margin: 0 0 15px;
+}
+.htpageimportarea p{
+  margin-bottom: 15px;
+}
+.htpageimportarea input {
+  background: #fff none repeat scroll 0 0;
+  border: 1px solid #c7c7c7;
+  color: #888888;
+  font-size: 14px;
+  font-weight: normal;
+  padding: 5px 10px;
+  width: 250px;
+  border-radius: 0;
+}
+.wlimpbtn.htdisabled {
+  cursor: default;
+  opacity: 0.4;
+  pointer-events: none;
+}
+.htmessage {
+  text-align: center;
+}

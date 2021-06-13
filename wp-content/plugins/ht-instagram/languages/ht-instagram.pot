@@ -1,0 +1,680 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: HT Feed\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-12 10:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.4; wp-5.5.3"
+
+#: include/elementor_widgets.php:99 include/vc_map.php:25
+msgid "1 Column"
+msgstr ""
+
+#: include/elementor_widgets.php:116
+msgid "150"
+msgstr ""
+
+#: include/elementor_widgets.php:100 include/vc_map.php:26
+msgid "2 Column"
+msgstr ""
+
+#: include/elementor_widgets.php:117
+msgid "240"
+msgstr ""
+
+#: include/elementor_widgets.php:101 include/vc_map.php:27
+msgid "3 Column"
+msgstr ""
+
+#: admin/include/admin-setting.php:247
+msgid "300"
+msgstr ""
+
+#: admin/include/admin-setting.php:238
+msgid "3000"
+msgstr ""
+
+#: include/elementor_widgets.php:118
+msgid "320"
+msgstr ""
+
+#: include/elementor_widgets.php:102 include/vc_map.php:24
+msgid "4 Column"
+msgstr ""
+
+#: include/elementor_widgets.php:119
+msgid "480"
+msgstr ""
+
+#: include/elementor_widgets.php:103 include/vc_map.php:28
+msgid "5 Column"
+msgstr ""
+
+#: admin/include/admin-setting.php:263
+msgid "50"
+msgstr ""
+
+#: include/elementor_widgets.php:104 include/vc_map.php:29
+msgid "6 Column"
+msgstr ""
+
+#: include/elementor_widgets.php:120
+msgid "640"
+msgstr ""
+
+#: admin/include/admin-setting.php:157
+msgid "<h2 class=\"htinstaop-headding\">Slider Options</h2>"
+msgstr ""
+
+#: admin/include/admin-setting.php:86
+msgid "<h2 class=\"htinstaop-headding\">Style</h2>"
+msgstr ""
+
+#: include/elementor_widgets.php:1419
+msgid "Active"
+msgstr ""
+
+#: admin/include/admin-setting.php:245 admin/include/admin-setting.php:246
+msgid "Animation Speed"
+msgstr ""
+
+#: include/elementor_widgets.php:1084
+msgid "Arrow"
+msgstr ""
+
+#: include/vc_map.php:254 admin/include/admin-setting.php:229
+msgid "Auto Play"
+msgstr ""
+
+#: include/vc_map.php:287
+msgid "Auto Play Animation Speed"
+msgstr ""
+
+#: include/vc_map.php:270 include/vc_map.php:273 include/vc_map.php:284
+#: admin/include/admin-setting.php:236 admin/include/admin-setting.php:237
+msgid "Auto Play Speed"
+msgstr ""
+
+#: admin/include/admin-setting.php:230
+msgid "Auto Play: On / off"
+msgstr ""
+
+#: include/elementor_widgets.php:546
+msgid "Autoplay animation speed"
+msgstr ""
+
+#: include/elementor_widgets.php:533
+msgid "Autoplay speed"
+msgstr ""
+
+#: include/elementor_widgets.php:695 include/elementor_widgets.php:825
+#: include/elementor_widgets.php:878 include/elementor_widgets.php:986
+#: include/elementor_widgets.php:1071 include/elementor_widgets.php:1150
+#: include/elementor_widgets.php:1273 include/elementor_widgets.php:1333
+#: include/elementor_widgets.php:1427
+msgid "Background"
+msgstr ""
+
+#: include/elementor_widgets.php:730 include/elementor_widgets.php:847
+#: include/elementor_widgets.php:900 include/elementor_widgets.php:1008
+#: include/elementor_widgets.php:1160 include/elementor_widgets.php:1283
+#: include/elementor_widgets.php:1343 include/elementor_widgets.php:1437
+msgid "Border"
+msgstr ""
+
+#: include/elementor_widgets.php:738 include/elementor_widgets.php:855
+#: include/elementor_widgets.php:908 include/elementor_widgets.php:1016
+#: include/elementor_widgets.php:1168 include/elementor_widgets.php:1291
+#: include/elementor_widgets.php:1351 include/elementor_widgets.php:1445
+msgid "Border Radius"
+msgstr ""
+
+#: include/default_widgets.php:224 include/elementor_widgets.php:207
+#: include/elementor_widgets.php:345 include/vc_map.php:77
+#: include/vc_map.php:101
+msgid "Bottom"
+msgstr ""
+
+#: include/elementor_widgets.php:490 include/vc_map.php:224
+#: admin/include/admin-setting.php:254
+msgid "Center Mode"
+msgstr ""
+
+#: admin/include/admin-setting.php:255
+msgid "Center Mode : On / off"
+msgstr ""
+
+#: admin/include/admin-setting.php:261 admin/include/admin-setting.php:262
+msgid "Center Padding"
+msgstr ""
+
+#: include/elementor_widgets.php:503 include/vc_map.php:240
+#: include/vc_map.php:243
+msgid "Center padding"
+msgstr ""
+
+#: include/elementor_widgets.php:808 include/elementor_widgets.php:946
+#: include/elementor_widgets.php:1106 include/elementor_widgets.php:1256
+msgid "Color"
+msgstr ""
+
+#: include/default_widgets.php:177 include/elementor_widgets.php:80
+#: include/vc_map.php:21
+msgid "Column"
+msgstr ""
+
+#: include/elementor_widgets.php:869
+msgid "Comment & Like"
+msgstr ""
+
+#: include/elementor_widgets.php:281
+msgid "Comment Icon"
+msgstr ""
+
+#: include/vc_map.php:424
+msgid "Comment Like Font Size"
+msgstr ""
+
+#: include/vc_map.php:112
+msgid "Current window"
+msgstr ""
+
+#: include/default_widgets.php:168
+msgid "Enter your title"
+msgstr ""
+
+#: include/elementor_widgets.php:311
+msgid "Flow Button Icon"
+msgstr ""
+
+#: include/elementor_widgets.php:326
+msgid "Flow Button Prefix"
+msgstr ""
+
+#: include/elementor_widgets.php:328
+msgid "Follow @"
+msgstr ""
+
+#: include/elementor_widgets.php:965
+msgid "Follow Button"
+msgstr ""
+
+#: include/vc_map.php:431
+msgid "Follow Button Background"
+msgstr ""
+
+#: admin/include/admin-setting.php:118
+msgid "Follow Button Background Color"
+msgstr ""
+
+#: include/vc_map.php:438 admin/include/admin-setting.php:125
+msgid "Follow Button Color"
+msgstr ""
+
+#: include/vc_map.php:445 admin/include/admin-setting.php:132
+msgid "Follow Button Font Size"
+msgstr ""
+
+#: admin/include/admin-setting.php:150
+msgid "Follow Button Icon Background Color"
+msgstr ""
+
+#: include/vc_map.php:452 admin/include/admin-setting.php:143
+msgid "Follow Button Icon Color"
+msgstr ""
+
+#: include/vc_map.php:459
+msgid "Follow Button Icon Color Background"
+msgstr ""
+
+#: include/default_widgets.php:220 include/elementor_widgets.php:338
+#: include/vc_map.php:95
+msgid "Follow Button Position"
+msgstr ""
+
+#: include/elementor_widgets.php:781 include/elementor_widgets.php:919
+#: include/elementor_widgets.php:1122
+msgid "Font Size"
+msgstr ""
+
+#: admin/include/admin-setting.php:48
+msgid "General"
+msgstr ""
+
+#: include/elementor_widgets.php:356 include/vc_map.php:120
+msgid "Gutter Space"
+msgstr ""
+
+#. Author of the plugin
+msgid "HasThemes"
+msgstr ""
+
+#: include/elementor_widgets.php:1179 include/elementor_widgets.php:1362
+msgid "Height"
+msgstr ""
+
+#: include/elementor_widgets.php:131 include/elementor_widgets.php:143
+#: include/elementor_widgets.php:155 include/elementor_widgets.php:167
+#: include/elementor_widgets.php:179
+msgid "Hide"
+msgstr ""
+
+#: include/elementor_widgets.php:1249
+msgid "Hover"
+msgstr ""
+
+#: include/default_widgets.php:13
+msgid "HT : WP Instagram"
+msgstr ""
+
+#. Name of the plugin
+msgid "HT Feed"
+msgstr ""
+
+#: include/elementor_widgets.php:13 include/vc_map.php:7 include/vc_map.php:8
+msgid "HT Instagram"
+msgstr ""
+
+#: admin/include/admin-setting.php:283
+msgid "HT Instagram Settings"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://hasthemes.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://htplugins.com/"
+msgstr ""
+
+#: include/elementor_widgets.php:223
+msgid "Icon"
+msgstr ""
+
+#: include/elementor_widgets.php:1054
+msgid "Icon Color"
+msgstr ""
+
+#: include/elementor_widgets.php:1027
+msgid "Icon Font Size"
+msgstr ""
+
+#: include/elementor_widgets.php:219 include/elementor_widgets.php:237
+msgid "Image"
+msgstr ""
+
+#: include/default_widgets.php:191 include/elementor_widgets.php:112
+#: include/vc_map.php:36
+msgid "Image Size"
+msgstr ""
+
+#: include/elementor_widgets.php:37
+msgid "Instagram"
+msgstr ""
+
+#: include/elementor_widgets.php:57
+msgid "Instagram UserName"
+msgstr ""
+
+#: include/elementor_widgets.php:686
+msgid "Item"
+msgstr ""
+
+#: include/elementor_widgets.php:67 include/vc_map.php:13
+msgid "Item Limit"
+msgstr ""
+
+#: include/default_widgets.php:172
+msgid "Item Limit:"
+msgstr ""
+
+#: include/vc_map.php:122
+msgid "Item space Ex: 5"
+msgstr ""
+
+#: include/default_widgets.php:186
+msgid "Item Space:"
+msgstr ""
+
+#: include/elementor_widgets.php:128
+msgid "Lazy  Load"
+msgstr ""
+
+#: include/vc_map.php:410 admin/include/admin-setting.php:93
+msgid "Like Comment Background"
+msgstr ""
+
+#: include/vc_map.php:417 admin/include/admin-setting.php:100
+msgid "Like Comment Color"
+msgstr ""
+
+#: admin/include/admin-setting.php:107
+msgid "Like Comment Font Size"
+msgstr ""
+
+#: include/elementor_widgets.php:200 include/vc_map.php:71
+msgid "Like Comment Position"
+msgstr ""
+
+#: include/elementor_widgets.php:296
+msgid "Like Icon"
+msgstr ""
+
+#: include/elementor_widgets.php:704
+msgid "Margin"
+msgstr ""
+
+#: include/vc_map.php:40
+msgid "Medium"
+msgstr ""
+
+#: include/default_widgets.php:223 include/elementor_widgets.php:206
+#: include/elementor_widgets.php:344 include/vc_map.php:76
+#: include/vc_map.php:100
+msgid "Middle"
+msgstr ""
+
+#: include/elementor_widgets.php:628
+msgid "Mobile Phone"
+msgstr ""
+
+#: include/elementor_widgets.php:670 include/vc_map.php:354
+#: include/vc_map.php:357
+msgid "Mobile Resolution"
+msgstr ""
+
+#: admin/include/admin-setting.php:215
+msgid "Navigation"
+msgstr ""
+
+#: admin/include/admin-setting.php:216
+msgid "Navigation: On / off"
+msgstr ""
+
+#: include/vc_map.php:113
+msgid "New window"
+msgstr ""
+
+#: include/elementor_widgets.php:446 include/vc_map.php:195
+msgid "Next icon"
+msgstr ""
+
+#: include/default_widgets.php:202 include/default_widgets.php:209
+#: include/default_widgets.php:216 include/elementor_widgets.php:476
+#: include/vc_map.php:52 include/vc_map.php:63 include/vc_map.php:88
+#: include/vc_map.php:131 include/vc_map.php:169 include/vc_map.php:211
+#: include/vc_map.php:227 include/vc_map.php:257
+msgid "No"
+msgstr ""
+
+#: include/elementor_widgets.php:1099 include/elementor_widgets.php:1325
+msgid "Normal"
+msgstr ""
+
+#: admin/include/admin-setting.php:171
+msgid "Number Of item"
+msgstr ""
+
+#: admin/include/admin-setting.php:204
+msgid "Number Of item On Mobile"
+msgstr ""
+
+#: include/vc_map.php:368 include/vc_map.php:371
+msgid "Number of item on Mobile"
+msgstr ""
+
+#: admin/include/admin-setting.php:193
+msgid "Number Of item On Tablet"
+msgstr ""
+
+#: include/vc_map.php:326 include/vc_map.php:329
+msgid "Number of item on Tablet"
+msgstr ""
+
+#: admin/include/admin-setting.php:182
+msgid "Number Of item Row"
+msgstr ""
+
+#: include/vc_map.php:15 include/vc_map.php:142
+msgid "Number of visible items"
+msgstr ""
+
+#: include/vc_map.php:155
+msgid "Number of visible slider row"
+msgstr ""
+
+#: include/elementor_widgets.php:191
+msgid "Off"
+msgstr ""
+
+#: include/elementor_widgets.php:190 admin/include/admin-setting.php:164
+msgid "On"
+msgstr ""
+
+#: include/elementor_widgets.php:749
+msgid "Overlay Color"
+msgstr ""
+
+#: include/elementor_widgets.php:717 include/elementor_widgets.php:834
+#: include/elementor_widgets.php:887 include/elementor_widgets.php:995
+#: include/elementor_widgets.php:1233
+msgid "Padding"
+msgstr ""
+
+#: include/elementor_widgets.php:1310 admin/include/admin-setting.php:222
+msgid "Pagination"
+msgstr ""
+
+#: admin/include/admin-setting.php:223
+msgid "Pagination: On / off"
+msgstr ""
+
+#: include/elementor_widgets.php:480
+msgid "Pause on Hover?"
+msgstr ""
+
+#: include/elementor_widgets.php:59
+msgid "portfolio.devitems"
+msgstr ""
+
+#: include/elementor_widgets.php:430 include/vc_map.php:182
+msgid "Previous icon"
+msgstr ""
+
+#: ht-instagram.php:68
+msgid "Settings"
+msgstr ""
+
+#: admin/include/admin-setting.php:58
+msgid "Shortcode "
+msgstr ""
+
+#: include/elementor_widgets.php:130 include/elementor_widgets.php:142
+#: include/elementor_widgets.php:154 include/elementor_widgets.php:166
+#: include/elementor_widgets.php:178
+msgid "Show"
+msgstr ""
+
+#: include/default_widgets.php:206 include/elementor_widgets.php:152
+#: include/vc_map.php:60
+msgid "Show Comment"
+msgstr ""
+
+#: include/default_widgets.php:213 include/elementor_widgets.php:176
+#: include/vc_map.php:84
+msgid "Show Follow Button"
+msgstr ""
+
+#: include/elementor_widgets.php:164
+msgid "Show Light Box"
+msgstr ""
+
+#: include/default_widgets.php:199 include/elementor_widgets.php:140
+#: include/vc_map.php:49
+msgid "Show Like"
+msgstr ""
+
+#: include/elementor_widgets.php:188
+msgid "Slider"
+msgstr ""
+
+#: include/elementor_widgets.php:417 include/vc_map.php:166
+msgid "Slider Arrow"
+msgstr ""
+
+#: include/elementor_widgets.php:519
+msgid "Slider auto play"
+msgstr ""
+
+#: include/elementor_widgets.php:462 include/vc_map.php:208
+msgid "Slider dots"
+msgstr ""
+
+#: include/vc_map.php:128
+msgid "Slider Enable"
+msgstr ""
+
+#: include/elementor_widgets.php:558 include/elementor_widgets.php:600
+#: include/elementor_widgets.php:655 include/vc_map.php:298
+#: include/vc_map.php:301
+msgid "Slider item to scroll"
+msgstr ""
+
+#: include/vc_map.php:382 include/vc_map.php:385 include/vc_map.php:396
+#: include/vc_map.php:399
+msgid "Slider item to scroll on mobile"
+msgstr ""
+
+#: include/vc_map.php:340 include/vc_map.php:343
+msgid "Slider item to scroll on tablet"
+msgstr ""
+
+#: include/elementor_widgets.php:387 include/elementor_widgets.php:585
+#: include/elementor_widgets.php:640 include/vc_map.php:139
+msgid "Slider Items"
+msgstr ""
+
+#: include/elementor_widgets.php:377
+msgid "Slider Option"
+msgstr ""
+
+#: include/vc_map.php:143 include/vc_map.php:156 include/vc_map.php:176
+#: include/vc_map.php:189 include/vc_map.php:202 include/vc_map.php:218
+#: include/vc_map.php:234 include/vc_map.php:244 include/vc_map.php:264
+#: include/vc_map.php:274 include/vc_map.php:288 include/vc_map.php:302
+#: include/vc_map.php:316 include/vc_map.php:330 include/vc_map.php:344
+#: include/vc_map.php:358 include/vc_map.php:372 include/vc_map.php:386
+#: include/vc_map.php:400
+msgid "Slider Options"
+msgstr ""
+
+#: include/elementor_widgets.php:402 include/vc_map.php:152
+msgid "Slider Row"
+msgstr ""
+
+#: admin/include/admin-setting.php:165
+msgid "Slider: On / off"
+msgstr ""
+
+#: include/vc_map.php:42
+msgid "Standard"
+msgstr ""
+
+#: include/elementor_widgets.php:44
+msgid "Style"
+msgstr ""
+
+#: include/elementor_widgets.php:48
+msgid "Style One"
+msgstr ""
+
+#: include/elementor_widgets.php:49
+msgid "Style Two"
+msgstr ""
+
+#: include/vc_map.php:412 include/vc_map.php:419 include/vc_map.php:426
+#: include/vc_map.php:433 include/vc_map.php:440 include/vc_map.php:447
+#: include/vc_map.php:454 include/vc_map.php:461
+msgid "Styling"
+msgstr ""
+
+#: admin/include/admin-setting.php:294
+msgid "Successfully Settings Saved."
+msgstr ""
+
+#: include/elementor_widgets.php:573
+msgid "Tablet"
+msgstr ""
+
+#: include/elementor_widgets.php:615 include/vc_map.php:312
+msgid "Tablet Resolution"
+msgstr ""
+
+#: include/default_widgets.php:228 include/vc_map.php:108
+msgid "Target"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The HT Feed is a elementor addons, Visul Composer addons, WordPress Widges."
+msgstr ""
+
+#: include/elementor_widgets.php:671
+msgid "The resolution to mobile."
+msgstr ""
+
+#: include/elementor_widgets.php:616 include/vc_map.php:315
+msgid "The resolution to tablet."
+msgstr ""
+
+#: include/vc_map.php:41
+msgid "Thumbnail"
+msgstr ""
+
+#: include/default_widgets.php:222 include/elementor_widgets.php:205
+#: include/elementor_widgets.php:343 include/vc_map.php:75
+#: include/vc_map.php:99
+msgid "Top"
+msgstr ""
+
+#: admin/include/admin-setting.php:74 admin/include/admin-setting.php:75
+msgid "User Name"
+msgstr ""
+
+#: admin/include/admin-setting.php:53
+msgid "Widgets"
+msgstr ""
+
+#: include/elementor_widgets.php:1206 include/elementor_widgets.php:1389
+msgid "Width"
+msgstr ""
+
+#: include/default_widgets.php:9 admin/include/admin-setting.php:32
+#: admin/include/admin-setting.php:33
+msgid "WP Instagram"
+msgstr ""
+
+#: include/default_widgets.php:201 include/default_widgets.php:208
+#: include/default_widgets.php:215 include/elementor_widgets.php:477
+#: include/vc_map.php:53 include/vc_map.php:64 include/vc_map.php:87
+#: include/vc_map.php:132 include/vc_map.php:170 include/vc_map.php:212
+#: include/vc_map.php:228 include/vc_map.php:258
+msgid "Yes"
+msgstr ""
+
+#: include/elementor_widgets.php:265 include/elementor_widgets.php:768
+msgid "Zoom Icon"
+msgstr ""
+
+#: include/elementor_widgets.php:215
+msgid "Zoom Icon Type"
+msgstr ""

@@ -1,0 +1,459 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WishSuite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-17 03:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1\n"
+"X-Domain: wishsuite"
+
+#: includes/classes/Admin/Notices.php:58
+#, php-format
+msgid ""
+"%1$sHT Compare%2$s requires %1$s\"WooCommerce\"%2$s plugin to be installed "
+"and activated. Please install WooCommerce to continue."
+msgstr ""
+
+#: includes/classes/Admin/Notices.php:51
+#, php-format
+msgid ""
+"%1$sWishSuite%2$s requires %1$s\"WooCommerce\"%2$s plugin to be active. "
+"Please activate WooCommerce to continue."
+msgstr ""
+
+#: includes/classes/Admin/Notices.php:52
+msgid "Activate WooCommerce"
+msgstr ""
+
+#: includes/helper-functions.php:127 includes/helper-functions.php:155
+#: includes/classes/Admin/Admin_Fields.php:174
+#: includes/classes/Frontend/Manage_Wishlist.php:360
+msgid "Add To Cart"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:266
+msgid "Added Button custom icon"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:253
+msgid "Added Button icon type"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:93
+#: includes/classes/Admin/Admin_Fields.php:107
+msgid "After Add To Cart"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:108
+msgid "After Image"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:109
+msgid "After Summary"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:135
+msgid "Already exists in the wishlist text"
+msgstr ""
+
+#: includes/helper-functions.php:157
+msgid "Availability"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:312
+msgid "Background Color"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:92
+#: includes/classes/Admin/Admin_Fields.php:106
+msgid "Before Add To Cart"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:401
+msgid "Border Color"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:356
+msgid "Border Radius"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:333
+#: includes/classes/Admin/Admin_Fields.php:347
+#: includes/classes/Admin/Admin_Fields.php:361
+msgid "Bottom"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:243
+msgid "Button custom icon"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:288
+msgid "Button custom style"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:230
+msgid "Button icon type"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:48
+msgid "Button Settings"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:217
+msgid "Button style"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:117
+msgid "Button Text"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:218
+msgid "Choose a style for the wishlist button from here."
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:277
+msgid "Choose a style for the wishlist table here."
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:231
+#: includes/classes/Admin/Admin_Fields.php:254
+msgid "Choose an icon for the wishlist button from here."
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:165
+msgid ""
+"Choose which fields should be presented on the product compare page with "
+"table."
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:296
+msgid "Color"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:237
+#: includes/classes/Admin/Admin_Fields.php:260
+msgid "Custom icon"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:224
+#: includes/classes/Admin/Admin_Fields.php:282
+msgid "Custom style"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:236
+#: includes/classes/Admin/Admin_Fields.php:259
+msgid "Default icon"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:222
+#: includes/classes/Admin/Admin_Fields.php:281
+msgid "Default style"
+msgstr ""
+
+#: includes/helper-functions.php:156
+msgid "Description"
+msgstr ""
+
+#: includes/helper-functions.php:160
+msgid "Dimensions"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:188
+msgid "Empty table text"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:127
+msgid "Enter the product added text."
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:196
+msgid "Enter your required image size."
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:118
+msgid "Enter your wishlist button text."
+msgstr ""
+
+#: includes/classes/Manage_Data.php:63
+msgid "Failed to insert data"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:180
+msgid "Fields heading text"
+msgstr ""
+
+#. Author of the plugin
+msgid "HasTheme"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:386
+msgid "Heading Background Color"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:393
+msgid "Heading Border Color"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:378
+msgid "Heading Color"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:200
+msgid "Height"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:320
+msgid "Hover Background Color"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:304
+msgid "Hover Color"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://hasthemes.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://hasthemes.com/plugins/"
+msgstr ""
+
+#: includes/helper-functions.php:123 includes/helper-functions.php:151
+#: includes/classes/Admin/Admin_Fields.php:170
+#: includes/classes/Frontend/Manage_Wishlist.php:356
+msgid "Image"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:206
+msgid "Image Hard Crop"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:195
+msgid "Image size"
+msgstr ""
+
+#: includes/classes/Admin/Notices.php:59
+msgid "Install WooCommerce"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:334
+#: includes/classes/Admin/Admin_Fields.php:348
+#: includes/classes/Admin/Admin_Fields.php:362
+msgid "Left"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:342
+msgid "Margin"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:235
+#: includes/classes/Admin/Admin_Fields.php:258
+msgid "None"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:328
+msgid "Padding"
+msgstr ""
+
+#: includes/helper-functions.php:125 includes/helper-functions.php:153
+#: includes/classes/Admin/Admin_Fields.php:172
+#: includes/classes/Frontend/Manage_Wishlist.php:358
+msgid "Price"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:129
+#: includes/classes/Admin/Admin_Fields.php:130
+msgid "Product Added"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:126
+msgid "Product added text"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:138
+#: includes/classes/Admin/Admin_Fields.php:139
+msgid "Product already added"
+msgstr ""
+
+#: includes/classes/Ajax.php:48
+msgid "Product do not add!"
+msgstr ""
+
+#: includes/classes/Ajax.php:67
+msgid "Product do not delete!"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:102
+msgid "Product page button position"
+msgstr ""
+
+#: includes/classes/Ajax.php:52
+msgid "Product successfully added!"
+msgstr ""
+
+#: includes/classes/Ajax.php:71
+msgid "Product successfully deleted!"
+msgstr ""
+
+#: includes/helper-functions.php:126 includes/helper-functions.php:154
+#: includes/classes/Admin/Admin_Fields.php:173
+#: includes/classes/Frontend/Manage_Wishlist.php:359
+msgid "Quantity"
+msgstr ""
+
+#: includes/helper-functions.php:122 includes/helper-functions.php:150
+#: includes/classes/Admin/Admin_Fields.php:169
+#: includes/classes/Admin/Admin_Fields.php:247
+#: includes/classes/Admin/Admin_Fields.php:270
+#: includes/classes/Frontend/Manage_Wishlist.php:355
+msgid "Remove"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:157
+msgid "Remove from the \"Wishlist\" after adding to the cart."
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:332
+#: includes/classes/Admin/Admin_Fields.php:346
+#: includes/classes/Admin/Admin_Fields.php:360
+msgid "Right"
+msgstr ""
+
+#: includes/helper-functions.php:32
+msgid "Select"
+msgstr ""
+
+#: includes/classes/Admin/Dashboard.php:68
+#: includes/classes/Admin/Dashboard.php:144
+#: includes/classes/Admin/Dashboard.php:145
+msgid "Settings"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:88
+msgid "Shop page button position"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:74
+msgid "Show button in product list"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:81
+msgid "Show button in single product page"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:164
+msgid "Show fields in table"
+msgstr ""
+
+#: includes/helper-functions.php:158
+msgid "Sku"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:58
+msgid "Style Settings"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:427
+msgid "Successfully Settings Saved."
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:370
+msgid "Table custom style"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:53
+msgid "Table Settings"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:276
+msgid "Table style"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:189
+msgid ""
+"Text will be displayed if the user doesn't add any product to  the wishlist."
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:223
+msgid "Theme style"
+msgstr ""
+
+#: includes/helper-functions.php:124 includes/helper-functions.php:152
+#: includes/classes/Admin/Admin_Fields.php:171
+#: includes/classes/Frontend/Manage_Wishlist.php:357
+msgid "Title"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:331
+#: includes/classes/Admin/Admin_Fields.php:345
+#: includes/classes/Admin/Admin_Fields.php:359
+msgid "Top"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:94
+msgid "Top On Image"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:335
+#: includes/classes/Admin/Admin_Fields.php:349
+#: includes/classes/Admin/Admin_Fields.php:363
+msgid "Unit"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:246
+#: includes/classes/Admin/Admin_Fields.php:269
+msgid "Upload"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:95
+#: includes/classes/Admin/Admin_Fields.php:110
+msgid "Use Shortcode"
+msgstr ""
+
+#: includes/helper-functions.php:159
+msgid "Weight"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:199
+msgid "Width"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:120
+#: includes/classes/Admin/Admin_Fields.php:121
+msgid "Wishlist"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:148
+msgid "Wishlist page"
+msgstr ""
+
+#. Name of the plugin
+#: includes/classes/Admin/Dashboard.php:83
+#: includes/classes/Admin/Dashboard.php:84
+msgid "WishSuite"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:416
+msgid "WishSuite Settings"
+msgstr ""
+
+#. Description of the plugin
+msgid "WooCommerce Product wishlist plugin"
+msgstr ""
+
+#: includes/classes/Admin/Admin_Fields.php:181
+msgid "You can change table heading text from here."
+msgstr ""
+
+#: includes/classes/Manage_Data.php:34
+msgid "You must provide a product ID."
+msgstr ""

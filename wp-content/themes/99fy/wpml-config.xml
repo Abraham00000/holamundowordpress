@@ -1,0 +1,88 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">e-landing-page</custom-type>
+    <custom-type translate="1">elementor_library</custom-type>
+    <custom-type translate="1">htslider_slider</custom-type>
+    <custom-type translate="1">product</custom-type>
+    <custom-type translate="1">product_variation</custom-type>
+    <custom-type translate="1">shop_order</custom-type>
+    <custom-type translate="1">shop_order_refund</custom-type>
+    <custom-type translate="1">shop_coupon</custom-type>
+    <custom-type translate="1">wphash_ntf_bar</custom-type>
+    <custom-type translate="1">mc4wp-form</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">elementor_library_type</taxonomy>
+    <taxonomy translate="1">elementor_library_category</taxonomy>
+    <taxonomy translate="1">htslider_category</taxonomy>
+    <taxonomy translate="1">product_type</taxonomy>
+    <taxonomy translate="1">product_visibility</taxonomy>
+    <taxonomy translate="1">product_cat</taxonomy>
+    <taxonomy translate="1">product_tag</taxonomy>
+    <taxonomy translate="1">product_shipping_class</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="translate">_elementor_edit_mode</custom-field>
+    <custom-field action="translate">_elementor_template_type</custom-field>
+    <custom-field action="translate">_elementor_version</custom-field>
+    <custom-field action="translate">_wp_page_template</custom-field>
+    <custom-field action="translate">_elementor_page_settings</custom-field>
+    <custom-field action="translate">_wp_attached_file</custom-field>
+    <custom-field action="translate">_wp_attachment_metadata</custom-field>
+    <custom-field action="translate">original-file</custom-field>
+    <custom-field action="translate">smush-complete</custom-field>
+    <custom-field action="translate">smush-info</custom-field>
+    <custom-field action="translate">smush-stats</custom-field>
+    <custom-field action="translate">_elementor_source_image_hash</custom-field>
+    <custom-field action="translate">_elementor_data</custom-field>
+    <custom-field action="translate">_elementor_controls_usage</custom-field>
+    <custom-field action="translate">_wxr_import_has_attachment_refs</custom-field>
+    <custom-field action="translate">_menu_item_type</custom-field>
+    <custom-field action="translate">_menu_item_menu_item_parent</custom-field>
+    <custom-field action="translate">_menu_item_object_id</custom-field>
+    <custom-field action="translate">_menu_item_object</custom-field>
+    <custom-field action="translate">_menu_item_target</custom-field>
+    <custom-field action="translate">_menu_item_classes</custom-field>
+    <custom-field action="translate">_menu_item_xfn</custom-field>
+    <custom-field action="translate">_menu_item_url</custom-field>
+    <custom-field action="translate">_menu_item_menuposition</custom-field>
+    <custom-field action="translate">_menu_item_megamenu</custom-field>
+    <custom-field action="translate">_menu_item_template</custom-field>
+    <custom-field action="translate">_menu_item_menuwidth</custom-field>
+    <custom-field action="translate">_menu_item_disablet</custom-field>
+    <custom-field action="translate">_wp_old_slug</custom-field>
+    <custom-field action="translate">kc_data</custom-field>
+    <custom-field action="translate">_thumbnail_id</custom-field>
+    <custom-field action="translate">_wp_old_date</custom-field>
+    <custom-field action="translate">nnfy_gallery_images_src</custom-field>
+    <custom-field action="translate">nnfy_video_link</custom-field>
+    <custom-field action="translate">nnfy_audio_link</custom-field>
+    <custom-field action="translate">nnfy_city_text</custom-field>
+    <custom-field action="translate">_oembed_1b36688543d4d62a4a94550f822b61eb</custom-field>
+    <custom-field action="translate">_oembed_time_1b36688543d4d62a4a94550f822b61eb</custom-field>
+    <custom-field action="translate">_saleflash_text</custom-field>
+    <custom-field action="translate">_regular_price</custom-field>
+    <custom-field action="translate">_sale_price</custom-field>
+    <custom-field action="translate">total_sales</custom-field>
+    <custom-field action="translate">_tax_status</custom-field>
+    <custom-field action="translate">_tax_class</custom-field>
+    <custom-field action="translate">_manage_stock</custom-field>
+    <custom-field action="translate">_backorders</custom-field>
+    <custom-field action="translate">_sold_individually</custom-field>
+    <custom-field action="translate">_virtual</custom-field>
+    <custom-field action="translate">_downloadable</custom-field>
+    <custom-field action="translate">_download_limit</custom-field>
+    <custom-field action="translate">_download_expiry</custom-field>
+    <custom-field action="translate">_stock</custom-field>
+    <custom-field action="translate">_stock_status</custom-field>
+    <custom-field action="translate">_wc_average_rating</custom-field>
+    <custom-field action="translate">_wc_review_count</custom-field>
+    <custom-field action="translate">_product_version</custom-field>
+    <custom-field action="translate">_price</custom-field>
+    <custom-field action="translate">_product_image_gallery</custom-field>
+    <custom-field action="translate">_elementor_css</custom-field>
+    <custom-field action="translate">_edit_lock</custom-field>
+    <custom-field action="translate">_wp_trash_meta_status</custom-field>
+    <custom-field action="translate">_wp_trash_meta_time</custom-field>
+  </custom-fields>
+</wpml-config>

@@ -1,0 +1,92 @@
+
+---Downloaded files---
+The import files for: Standard Demo were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/holamundowordpress
+Data file = C:\xampp\htdocs\holamundowordpress\wp-content\plugins\99fy-core/includes/demo-content/standard-demo/99fy.xml
+Widget file = C:\xampp\htdocs\holamundowordpress\wp-content\plugins\99fy-core/includes/demo-content/standard-demo/99fy.wie
+Customizer file = C:\xampp\htdocs\holamundowordpress\wp-content\plugins\99fy-core/includes/demo-content/standard-demo/99fy.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+NNfy: Author Informations - No Title - Imported
+Buscar - Search Posts - Imported
+Productos - Products - Imported
+Categorías - No Title - Imported
+Nube de etiquetas - No Title - Imported
+HT : WP Instagram - Instagram - Imported
+HTML personalizado - Social Network - Imported
+
+Shop sidebar : 
+
+Búsqueda de productos - Search Products - Imported
+Filtrar productos por precio - Filter by price - Imported
+Categorías de producto - Product categories - Imported
+Filtrar productos por atributo - Color - Imported
+Filtrar productos por atributo - Size - Imported
+Productos por puntuación - Top rated products - Imported
+
+Footer 2 : 
+
+Imagen - No Title - Imported
+HTML personalizado - No Title - Imported
+
+Footer 3 : 
+
+Categorías - CATEGORIES - Imported
+
+Footer 4 : 
+
+Menú de Navegación - INFORMATION - Imported
+
+sidebar-6 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Menú de Navegación - QUICK LINKS - Imported to Inactive
+
+sidebar-7 : Sidebar does not exist in theme (moving widget to Inactive)
+
+HTML personalizado - PAYMENT OPTIONS - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

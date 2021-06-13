@@ -1,0 +1,20 @@
+{
+    "name": "hasthemes/wishsuite",
+    "description": "Wishlist WooCommerce plugin for WordPress",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "HasThemes",
+            "email": "zenaul@hastechit.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WishSuite\\": "includes/classes/"
+        },
+        "files": [ "includes/helper-functions.php" ]
+    }
+}

@@ -1,0 +1,300 @@
+/*
+Theme Name: 99fy
+Theme URI: https://99fy.hasthemes.com/landing/
+Author: HasThemes
+Author URI: https://hasthemes.com/
+Description: 99fy is a Free WooCommerce WordPress Theme, it is a responsive and fast loading theme. 99 Home pages are included in this theme. 99fy using Elementor Page Builder to create pages easily, and supports popular WooCommerce Addon - WooLentor. WooLentor helps to create custom templates for shop and product pages. All of the popular niches for WooCommerce Stores are included in this theme. Niches are Animals & Pets, Books & Library, Cosmetics, Cars & Motors, Electronics, Fashion, Furniture, Fruits, Food, Flower, Handmade, Health & beauty, Minimal Stores, Jewelry, Kitchen, Kids Store, Matcha Store, Perfume, Maternity, Plant & Nursery, Sports, Shapewear, Tools & Equipment, Watch, etc.. More niches are added regularly. Check the demos at https://99fy.hasthemes.com/landing/
+Version: 3.2.5
+Requires at least: WordPress 5.0.0
+Requires PHP: 5.2.4
+Tested up to: WordPress 5.7.2
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: two-columns, right-sidebar, footer-widgets, blog, custom-menu, post-formats, sticky-post, editor-style, threaded-comments, custom-colors, featured-images, full-width-template, theme-options, e-commerce, holiday 
+Text Domain: 99fy
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Accessibility
+# Alignments
+# Captions
+# Content
+    ## Posts and pages
+    ## Comments
+# Galleries
+# Infinite scroll
+# Media
+# Widgets
+# Clearings
+# Browser Upgrade
+
+--------------------------------------------------------------*/
+
+
+
+/*--------------------------------------------------------------
+# Accessibility
+--------------------------------------------------------------*/
+/* Text meant only for screen readers. */
+.screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+}
+.screen-reader-text:hover,
+.screen-reader-text:active,
+.screen-reader-text:focus {
+    background-color: #f1f1f1;
+    border-radius: 3px;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+    clip: auto !important;
+    color: #21759b;
+    display: block;
+    font-size: 14px;
+    font-size: 0.875rem;
+    font-weight: bold;
+    height: auto;
+    left: 5px;
+    line-height: normal;
+    padding: 15px 23px 14px;
+    text-decoration: none;
+    top: 5px;
+    width: auto;
+    z-index: 100000; 
+}
+#content[tabindex="-1"]:focus {
+    outline: 0;
+}
+/*--------------------------------------------------------------
+# Alignments
+--------------------------------------------------------------*/
+.alignleft {
+    display: inline;
+    float: left;
+    margin-right: 1.5em;
+}
+.alignright {
+    display: inline;
+    float: right;
+    margin-left: 1.5em;
+}
+.aligncenter {
+    clear: both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*--------------------------------------------------------------
+# Captions
+--------------------------------------------------------------*/
+.wp-caption {
+    margin-bottom: 1.5em;
+    max-width: 100%;
+}
+.wp-caption img[class*="wp-image-"] {
+    display: block;
+    margin: 0 auto;
+}
+.wp-caption .wp-caption-text {
+    margin: 0.8075em 0;
+}
+
+
+/*--------------------------------------------------------------
+# Content
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+## Posts and pages
+--------------------------------------------------------------*/
+.sticky {
+    display: block;
+}
+
+.hentry {
+    margin: 0 0 2.7em;
+}
+
+.updated:not(.published) {
+    display: none;
+}
+
+.page-content,
+.entry-content,
+.entry-summary {
+    margin: 1.5em 0 0;
+}
+
+.page-links {
+    clear: both;
+    margin: 0 0 1.5em;
+}
+
+/*--------------------------------------------------------------
+## Comments
+--------------------------------------------------------------*/
+.comment-content a {
+    word-wrap: break-word;
+}
+
+.bypostauthor {
+    display: block;
+}
+
+/*--------------------------------------------------------------
+# Galleries
+--------------------------------------------------------------*/
+.gallery {
+    margin-bottom: 1.5em;
+}
+.gallery-item {
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.gallery-columns-2 .gallery-item {
+    max-width: 50%;
+}
+
+.gallery-columns-3 .gallery-item {
+    max-width: 33.33%;
+}
+
+.gallery-columns-4 .gallery-item {
+    max-width: 25%;
+}
+
+.gallery-columns-5 .gallery-item {
+    max-width: 20%;
+}
+
+.gallery-columns-6 .gallery-item {
+    max-width: 16.66%;
+}
+
+.gallery-columns-7 .gallery-item {
+    max-width: 14.28%;
+}
+
+.gallery-columns-8 .gallery-item {
+    max-width: 12.5%;
+}
+
+.gallery-columns-9 .gallery-item {
+    max-width: 11.11%;
+}
+
+.gallery-caption {
+    display: block;
+}
+
+/*--------------------------------------------------------------
+# Infinite scroll
+--------------------------------------------------------------*/
+.infinite-scroll .posts-navigation,
+.infinite-scroll.neverending .site-footer {
+    display: none;
+}
+.infinity-end.neverending .site-footer {
+    display: block;
+}
+
+/*--------------------------------------------------------------
+# Media
+--------------------------------------------------------------*/
+.page-content .wp-smiley,
+.entry-content .wp-smiley,
+.comment-content .wp-smiley {
+    border: none;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 0;
+}
+
+/*--------------------------------------------------------------
+# Widgets
+--------------------------------------------------------------*/
+.widget {
+    margin: 0 0 1.5em;
+}
+.widget select {
+  height: 40px;
+  width: 100%;
+}
+
+
+/*--------------------------------------------------------------
+# Clearings
+--------------------------------------------------------------*/
+.clear:before,
+.clear:after,
+.entry-content:before,
+.entry-content:after,
+.comment-content:before,
+.comment-content:after,
+.site-header:before,
+.site-header:after,
+.site-content:before,
+.site-content:after,
+.site-footer:before,
+.site-footer:after {
+    content: "";
+    display: table;
+    table-layout: fixed;
+}
+.clear:after,
+.entry-content:after,
+.comment-content:after,
+.site-header:after,
+.site-content:after,
+.site-footer:after {
+    clear: both;
+}
+
+/*--------------------------------------------------------------
+# Browser Upgrade
+--------------------------------------------------------------*/
+.browserupgrade {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+header.page-header .page-title {
+  margin-top: 0;
+}
+
+#ht-quick-viewmodal .quantity {
+    text-align: center;
+}
+#ht-quick-viewmodal .htcloseqv{
+    border: 0;
+}
+.select2-container--default .select2-selection--single {
+    border-radius: 0;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow,
+.select2-container .select2-selection--single {
+    height: 40px;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 38px;
+}
+input#wp-comment-cookies-consent,
+.leave-comment-form form input[type="checkbox"] {
+    width: inherit;
+    height: auto;
+}
+.wp-block-button.is-style-outline {
+    margin: 20px 0;
+}
+.wp-block-group__inner-container {
+    padding: 20px;
+}
+/*--end--*/

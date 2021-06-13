@@ -1,0 +1,20 @@
+{
+    "name": "hasthemes/ever-compare",
+    "description": "WooCommerce product compare plugin for WordPress",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "HasTheme",
+            "email": "zenaul@hastechit.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "EverCompare\\": "includes/classes/"
+        },
+        "files": [ "includes/helper-functions.php" ]
+    }
+}

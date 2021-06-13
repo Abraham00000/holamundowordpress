@@ -1,0 +1,117 @@
+
+---Downloaded files---
+The import files for: Standard Demo were successfully downloaded!
+Initial max execution time = 1800
+Files info:
+Site URL = http://localhost/themedev
+Data file = D:\SERVER\htdocs\themedev\wp-content\plugins\99fy-companion/inc/demo-content/99fy.xml
+Widget file = D:\SERVER\htdocs\themedev\wp-content\plugins\99fy-companion/inc/demo-content/99fy.wie
+Customizer file = D:\SERVER\htdocs\themedev\wp-content\plugins\99fy-companion/inc/demo-content/99fy.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import slider_category cat 1
+[WARNING] Failed to import slider_category cat 2
+
+
+------
+New AJAX call!
+[WARNING] Failed to import slider_category cat 1
+[WARNING] Failed to import slider_category cat 2
+
+
+------
+New AJAX call!
+[WARNING] Failed to import slider_category cat 1
+[WARNING] Failed to import slider_category cat 2
+
+
+------
+New AJAX call!
+[WARNING] Failed to import slider_category cat 1
+[WARNING] Failed to import slider_category cat 2
+[WARNING] Failed to import "wooden Regular Chair": Invalid post type hero_slider
+[WARNING] Failed to import "wooden Regular Chair cat 1": Invalid post type hero_slider
+
+
+------
+New AJAX call!
+[WARNING] Failed to import slider_category cat 1
+[WARNING] Failed to import slider_category cat 2
+[WARNING] Failed to import "wooden Regular Chair": Invalid post type hero_slider
+[WARNING] Failed to import "wooden Regular Chair cat 1": Invalid post type hero_slider
+
+
+------
+New AJAX call!
+[WARNING] Failed to import slider_category cat 1
+[WARNING] Failed to import slider_category cat 2
+[WARNING] Failed to import "wooden Regular Chair": Invalid post type hero_slider
+[WARNING] Failed to import "wooden Regular Chair cat 1": Invalid post type hero_slider
+
+
+------
+New AJAX call!
+[WARNING] Failed to import slider_category cat 1
+[WARNING] Failed to import slider_category cat 2
+[WARNING] Failed to import "wooden Regular Chair": Invalid post type hero_slider
+[WARNING] Failed to import "wooden Regular Chair cat 1": Invalid post type hero_slider
+
+
+------
+New AJAX call!
+[WARNING] Failed to import slider_category cat 1
+[WARNING] Failed to import slider_category cat 2
+[WARNING] Failed to import "wooden Regular Chair": Invalid post type hero_slider
+[WARNING] Failed to import "wooden Regular Chair cat 1": Invalid post type hero_slider
+
+
+---Importing widgets---
+Sidebar : 
+
+NNfy: Author Informations - No Title - Imported
+Search - Search Posts - Imported
+Categories - No Title - Widget already exists
+Text - Instagram - Imported
+Custom HTML - Social Network - Imported
+Tag Cloud - No Title - Imported
+
+Shop sidebar : 
+
+Product Search - Search Products - Imported
+Filter Products by Price - Filter by price - Imported
+Product Categories - Product categories - Imported
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Size - Imported
+Products by Rating - Top rated products - Imported
+
+Footer 1 : 
+
+Image - No Title - Imported
+Custom HTML - No Title - Imported
+
+Footer 2 : 
+
+Categories - CATEGORIES - Imported
+
+Footer 3 : 
+
+Navigation Menu - INFORMATION - Imported
+
+Footer 4 : 
+
+Navigation Menu - QUICK LINKS - Imported
+
+sidebar-7 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - PAYMENT OPTIONS - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

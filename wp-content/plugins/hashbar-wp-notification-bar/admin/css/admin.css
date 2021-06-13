@@ -1,0 +1,36 @@
+.cmb-th span,
+span.pro{
+	color: red;
+}
+
+[aria-describedby="ht_dialog"] {
+	text-align: center;
+	z-index: 9999;
+}
+[aria-describedby="ht_dialog"] .dashicons-before::before {
+	font-size: 100px;
+	width: 100px;
+	height: 100px;
+}
+[aria-describedby="ht_dialog"] a:focus{
+	outline: none;
+	box-shadow: none;
+}
+[aria-describedby="ht_dialog"] .dashicons-warning {
+	text-align: center;
+}
+.hashbar_pro_details p{
+	font-size: 20px;
+}
+.hashbar_pro_details a{
+	text-decoration: none;
+}
+.hashbar_pro_details .buy_pro{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	font-size: 20px;
+	display: inline-block;
+}
+.hashbar_pro_details .banner{
+	display: block;
+}

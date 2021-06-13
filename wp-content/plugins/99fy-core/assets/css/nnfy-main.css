@@ -1,0 +1,25 @@
+/* Page title area */
+.breadcrumb-area .breadcrumb-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.breadcrumb-style-default .breadcrumb-content{
+    flex-direction: column;
+}
+.breadcrumb-style-one .breadcrumb-content{
+    align-items: center;
+}
+.breadcrumb-style-two .breadcrumb-content {
+    flex-direction: row-reverse;
+}
+.breadcrumb-style-one .breadcrumb-content.ht-text-center h2,.breadcrumb-style-two .breadcrumb-content.ht-text-center h2,.breadcrumb-style-three .breadcrumb-content.ht-text-center h2{
+    margin: 0;
+}
+.breadcrumb-style-three .breadcrumb-content {
+    flex-direction: column;
+    flex-direction: column-reverse;
+}
+.breadcrumb-style-three .breadcrumb-content .breadcrumbs_wrapper{
+    margin-bottom: 10px;
+}

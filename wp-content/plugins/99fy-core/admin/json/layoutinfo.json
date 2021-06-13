@@ -1,0 +1,2509 @@
+{
+    "notices": [
+        {
+            "title": "Cyber Monday",
+            "description": "#",
+            "bannerimage": "#",
+            "bannerlink": "#",
+            "status": "0"
+        }
+    ],
+
+    "pro_link": [
+        {
+            "url": "https://bit.ly/2SbjVPh"
+        }
+    ],
+
+    "categories": [
+        {
+            "name": "Home Layout",
+            "catkey": "homelayout"
+        }
+    ],
+    
+    "templates": [
+        {
+            "id": "animalspets_h37",
+            "shareId": "animals pets",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/animalspets_h37.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/animalspets_h37_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-thirtyseven/",
+            "category": "home",
+            "tags": ["home", "animals pets", "animals", "pets", "pet"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "animalspets_h67",
+            "shareId": "animals pets",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/animalspets_h67.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/animalspets_h67_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-sixtyseven/",
+            "category": "home",
+            "tags": ["home", "animals pets", "animals", "pets", "pet"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "animalspets_h71",
+            "shareId": "animals pets",
+            "title": "Home Three",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/animalspets_h71.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/animalspets_h71_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-seventyone/",
+            "category": "home",
+            "tags": ["home", "animals pets", "animals", "pets", "pet"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "animalspets_h93",
+            "shareId": "animals pets",
+            "title": "Home Four",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/animalspets_h93.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/animalspets_h93_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-ninetythree/",
+            "category": "home",
+            "tags": ["home", "animals pets", "animals", "pets", "pet"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "book_h20",
+            "shareId": "book",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/book_h20.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/book_h20_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-twenty/",
+            "category": "home",
+            "tags": ["home", "book"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "book_h45",
+            "shareId": "book",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/book_h45.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/book_h45_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-fortyfive/",
+            "category": "home",
+            "tags": ["home", "book"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "book_h70",
+            "shareId": "book",
+            "title": "Home Three",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/book_h70.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/book_h70_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-seventy/",
+            "category": "home",
+            "tags": ["home", "book"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "carmotors_h35",
+            "shareId": "car & motors",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/carmotors_h35.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/carmotors_h35_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-thirtyfive/",
+            "category": "home",
+            "tags": ["home", "car & motors", "car", "motors"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "carmotors_h38",
+            "shareId": "car & motors",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/carmotors_h38.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/carmotors_h38_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-thirtyeight/",
+            "category": "home",
+            "tags": ["home", "car & motors", "car", "motors"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "cosmetic_h6",
+            "shareId": "cosmetic",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/cosmetic_h6.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/cosmetic_h6_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-six/",
+            "category": "home",
+            "tags": ["home", "cosmetic"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "cosmetic_h99",
+            "shareId": "cosmetic",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/cosmetic_h99.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/cosmetic_h99_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-ninetynine/",
+            "category": "home",
+            "tags": ["home", "cosmetic"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "electronics_h9",
+            "shareId": "electronics",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/electronics_h9.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/electronics_h9_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-nine/",
+            "category": "home",
+            "tags": ["home", "electronics"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "electronics_h11",
+            "shareId": "electronics",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/electronics_h11.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/electronics_h11_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-eleven/",
+            "category": "home",
+            "tags": ["home", "electronics"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "electronics_h12",
+            "shareId": "electronics",
+            "title": "Home Three",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/electronics_h12.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/electronics_h12_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-twelve/",
+            "category": "home",
+            "tags": ["home", "electronics"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "electronics_h24",
+            "shareId": "electronics",
+            "title": "Home Four",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/electronics_h24.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/electronics_h24_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-twentyfour/",
+            "category": "home",
+            "tags": ["home", "electronics"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "electronics_h47",
+            "shareId": "electronics",
+            "title": "Home Five",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/electronics_h47.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/electronics_h47_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-fortyseven",
+            "category": "home",
+            "tags": ["home", "electronics"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "electronics_h52",
+            "shareId": "electronics",
+            "title": "Home Six",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/electronics_h52.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/electronics_h52_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-fiftytwo/",
+            "category": "home",
+            "tags": ["home", "electronics"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "electronics_h60",
+            "shareId": "electronics",
+            "title": "Home Seven",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/electronics_h60.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/electronics_h60_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-sixty",
+            "category": "home",
+            "tags": ["home", "electronics"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "electronics_h73",
+            "shareId": "electronics",
+            "title": "Home Eight",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/electronics_h73.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/electronics_h73_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-seventythree/",
+            "category": "home",
+            "tags": ["home", "electronics"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "electronics_h84",
+            "shareId": "electronics",
+            "title": "Home Nine",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/electronics_h84.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/electronics_h84_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-eightyfour/",
+            "category": "home",
+            "tags": ["home", "electronics"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "electronics_h96",
+            "shareId": "electronics",
+            "title": "Home Ten",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/electronics_h96.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/electronics_h96_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-ninetysix/",
+            "category": "home",
+            "tags": ["home", "electronics"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h1",
+            "shareId": "fashion",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h1.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h1_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-one/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h2",
+            "shareId": "fashion",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h2.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h2_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-two/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h3",
+            "shareId": "fashion",
+            "title": "Home Three",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h3.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h3_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-three/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h8",
+            "shareId": "fashion",
+            "title": "Home Four",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h8.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h8_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-eight/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h10",
+            "shareId": "fashion",
+            "title": "Home Five",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h10.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h10_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h14",
+            "shareId": "fashion",
+            "title": "Home Six",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h14.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h14_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-fourteen/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h16",
+            "shareId": "fashion",
+            "title": "Home Seven",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h16.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h16_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-sixteen/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h17",
+            "shareId": "fashion",
+            "title": "Home Eight",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h17.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h17_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-seventeen/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h21",
+            "shareId": "fashion",
+            "title": "Home Nine",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h21.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h21_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-twentyone/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h30",
+            "shareId": "fashion",
+            "title": "Home Ten",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h30.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h30_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-thirty/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h54",
+            "shareId": "fashion",
+            "title": "Home Eleven",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h54.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h54_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-fiftyfour/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h55",
+            "shareId": "fashion",
+            "title": "Home Twelve",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h55.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h55_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-fiftyfive/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h61",
+            "shareId": "fashion",
+            "title": "Home Thirteen",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h61.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h61_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-sixtyone/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h64",
+            "shareId": "fashion",
+            "title": "Home Fourteen",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h64.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h64_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-sixtyfour/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h65",
+            "shareId": "fashion",
+            "title": "Home Fifteen",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h65.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h65_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-sixtyfive/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h66",
+            "shareId": "fashion",
+            "title": "Home Sixteen",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h66.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h66_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-sixtysix/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h72",
+            "shareId": "fashion",
+            "title": "Home Seventeen",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h72.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h72_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-seventytwo/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h76",
+            "shareId": "fashion",
+            "title": "Home Eighteen",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h76.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h76_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-seventysix/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h77",
+            "shareId": "fashion",
+            "title": "Home Nineteen",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h77.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h77_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-seventyseven/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h78",
+            "shareId": "fashion",
+            "title": "Home Twenty",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h78.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h78_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-seventyeight/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h79",
+            "shareId": "fashion",
+            "title": "Home Twenty One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h79.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h79_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-seventynine/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h80",
+            "shareId": "fashion",
+            "title": "Home Twenty Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h80.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h80_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-eighty/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h81",
+            "shareId": "fashion",
+            "title": "Home Twenty Three",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h81.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h81_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-eightyone/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h88",
+            "shareId": "fashion",
+            "title": "Home Twenty Four",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h88.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h88_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-eightyeight/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h91",
+            "shareId": "fashion",
+            "title": "Home Twenty Five",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h91.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h91_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-ninetyone/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fashion_h94",
+            "shareId": "fashion",
+            "title": "Home Twenty Six",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fashion_h94.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fashion_h94_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-ninetyfour/",
+            "category": "home",
+            "tags": ["home", "fashion"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "flowers_h31",
+            "shareId": "flowers",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/flowers_h31.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/flowers_h31_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-thirtyone/",
+            "category": "home",
+            "tags": ["home", "flowers"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "flowers_h43",
+            "shareId": "flowers",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/flowers_h43.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/flowers_h43_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-fortythree/",
+            "category": "home",
+            "tags": ["home", "flowers"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "flowers_h68",
+            "shareId": "flowers",
+            "title": "Home Three",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/flowers_h68.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/flowers_h68_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-sixtyeight/",
+            "category": "home",
+            "tags": ["home", "flowers"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "food_h22",
+            "shareId": "food",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/food_h22.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/food_h22_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-twentytwo/",
+            "category": "home",
+            "tags": ["home", "food"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fruits_h5",
+            "shareId": "fruits",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fruits_h5.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fruits_h5_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-five/",
+            "category": "home",
+            "tags": ["home", "fruits"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "fruits_h85",
+            "shareId": "fruits",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/fruits_h85.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/fruits_h85_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-eightyfive/",
+            "category": "home",
+            "tags": ["home", "fruits"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "furniture_h4",
+            "shareId": "furniture",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/furniture_h4.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/furniture_h4_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-four/",
+            "category": "home",
+            "tags": ["home", "furniture"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "furniture_h7",
+            "shareId": "furniture",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/furniture_h7.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/furniture_h7_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-seven/",
+            "category": "home",
+            "tags": ["home", "furniture"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "furniture_h13",
+            "shareId": "furniture",
+            "title": "Home Three",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/furniture_h13.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/furniture_h13_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-thirteen/",
+            "category": "home",
+            "tags": ["home", "furniture"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "furniture_h15",
+            "shareId": "furniture",
+            "title": "Home Four",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/furniture_h15.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/furniture_h15_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-fifteen",
+            "category": "home",
+            "tags": ["home", "furniture"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "furniture_h23",
+            "shareId": "furniture",
+            "title": "Home Five",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/furniture_h23.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/furniture_h23_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-twentythree",
+            "category": "home",
+            "tags": ["home", "furniture"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "furniture_h28",
+            "shareId": "furniture",
+            "title": "Home Six",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/furniture_h28.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/furniture_h28_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-twentyeight/",
+            "category": "home",
+            "tags": ["home", "furniture"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "furniture_h33",
+            "shareId": "furniture",
+            "title": "Home Seven",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/furniture_h33.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/furniture_h33_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-thirtythree",
+            "category": "home",
+            "tags": ["home", "furniture"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "furniture_h39",
+            "shareId": "furniture",
+            "title": "Home Eight",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/furniture_h39.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/furniture_h39_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-thirtynine",
+            "category": "home",
+            "tags": ["home", "furniture"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "furniture_h40",
+            "shareId": "furniture",
+            "title": "Home Nine",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/furniture_h40.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/furniture_h40_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-forty/",
+            "category": "home",
+            "tags": ["home", "furniture"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "furniture_h53",
+            "shareId": "furniture",
+            "title": "Home Ten",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/furniture_h53.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/furniture_h53_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-fiftythree/",
+            "category": "home",
+            "tags": ["home", "furniture"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "furniture_h87",
+            "shareId": "furniture",
+            "title": "Home Eleven",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/furniture_h87.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/furniture_h87_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-eightyseven/",
+            "category": "home",
+            "tags": ["home", "furniture"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "furniture_h89",
+            "shareId": "furniture",
+            "title": "Home Twelve",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/furniture_h89.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/furniture_h89_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-eightynine/",
+            "category": "home",
+            "tags": ["home", "furniture"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "furniture_h98",
+            "shareId": "furniture",
+            "title": "Home Thirteen",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/furniture_h98.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/furniture_h98_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-ninetyeight/",
+            "category": "home",
+            "tags": ["home", "furniture"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "handmade_h50",
+            "shareId": "handmade",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/handmade_h50.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/handmade_h50_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-fifty/",
+            "category": "home",
+            "tags": ["home", "handmade"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "handmade_h59",
+            "shareId": "handmade",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/handmade_h59.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/handmade_h59_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-fiftynine/",
+            "category": "home",
+            "tags": ["home", "handmade"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "healthbeauty_h29",
+            "shareId": "perfume",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/perfume_h29.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/perfume_h29_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-twentynine/",
+            "category": "home",
+            "tags": ["home", "perfume"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "healthbeauty_h34",
+            "shareId": "health & beauty",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/healthbeauty_h34.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/healthbeauty_h34_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-thirtyfour/",
+            "category": "home",
+            "tags": ["home", "health & beauty", "health", "beauty", "health beauty"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "jewelry_h27",
+            "shareId": "jewelry",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/jewelry_h27.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/jewelry_h27_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-twentyseven/",
+            "category": "home",
+            "tags": ["home", "jewelry"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "jewelry_h63",
+            "shareId": "jewelry",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/jewelry_h63.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/jewelry_h63_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-sixtythree/",
+            "category": "home",
+            "tags": ["home", "jewelry"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "jewelry_h95",
+            "shareId": "jewelry",
+            "title": "Home Three",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/jewelry_h95.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/jewelry_h95_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-ninetyfive/",
+            "category": "home",
+            "tags": ["home", "jewelry"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "jewelry_h97",
+            "shareId": "jewelry",
+            "title": "Home Four",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/jewelry_h97.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/jewelry_h97_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-ninetyseven/",
+            "category": "home",
+            "tags": ["home", "jewelry"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "kids_h41",
+            "shareId": "kids",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/kids_h41.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/kids_h41_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-fortyone/",
+            "category": "home",
+            "tags": ["home", "kids"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "kitchen_h26",
+            "shareId": "kitchen",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/kitchen_h26.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/kitchen_h26_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-twentysix/",
+            "category": "home",
+            "tags": ["home", "kitchen"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "kitchen_h44",
+            "shareId": "kitchen",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/kitchen_h44.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/kitchen_h44_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-fortyfour/",
+            "category": "home",
+            "tags": ["home", "kitchen"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "kitchen_h62",
+            "shareId": "kitchen",
+            "title": "Home Three",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/kitchen_h62.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/kitchen_h62_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-sixtytwo/",
+            "category": "home",
+            "tags": ["home", "kitchen"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "kitchen_h69",
+            "shareId": "kitchen",
+            "title": "Home Four",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/kitchen_h69.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/kitchen_h69_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-sixtynine/",
+            "category": "home",
+            "tags": ["home", "kitchen"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "matcha_h36",
+            "shareId": "matcha",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/matcha_h36.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/matcha_h36_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-thirtysix/",
+            "category": "home",
+            "tags": ["home", "matcha"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "matcha_h46",
+            "shareId": "matcha",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/matcha_h46.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/matcha_h46_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-fortysix/",
+            "category": "home",
+            "tags": ["home", "matcha"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "maternity_h51",
+            "shareId": "maternity",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/maternity_h51.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/maternity_h51_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-fiftyone/",
+            "category": "home",
+            "tags": ["home", "maternity"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "maternity_h83",
+            "shareId": "maternity",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/maternity_h83.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/maternity_h83_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-eightythree/",
+            "category": "home",
+            "tags": ["home", "maternity"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "minimal_h18",
+            "shareId": "minimal",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/minimal_h18.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/minimal_h18_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-eighteen/",
+            "category": "home",
+            "tags": ["home", "minimal"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "minimal_h19",
+            "shareId": "minimal",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/minimal_h19.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/minimal_h19_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-nineteen/",
+            "category": "home",
+            "tags": ["home", "minimal"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "minimal_h56",
+            "shareId": "minimal",
+            "title": "Home Three",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/minimal_h56.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/minimal_h56_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-fiftysix/",
+            "category": "home",
+            "tags": ["home", "minimal"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "minimal_h58",
+            "shareId": "minimal",
+            "title": "Home Four",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/minimal_h58.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/minimal_h58_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-fiftyeight/",
+            "category": "home",
+            "tags": ["home", "minimal"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "minimal_h74",
+            "shareId": "minimal",
+            "title": "Home Five",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/minimal_h74.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/minimal_h74_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-seventyfour/",
+            "category": "home",
+            "tags": ["home", "minimal"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "plantsnursery_h42",
+            "shareId": "plants & nursery",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/plantsnursery_h42.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/plantsnursery_h42_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-fortytwo/",
+            "category": "home",
+            "tags": ["home", "plants & nursery", "plants", "nursery"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "shapewear_h49",
+            "shareId": "shapewear",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/shapewear_h49.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/shapewear_h49_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-fortynine/",
+            "category": "home",
+            "tags": ["home", "shapewear"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "sports_h25",
+            "shareId": "sports",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/sports_h25.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/sports_h25_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-twentyfive/",
+            "category": "home",
+            "tags": ["home", "sports"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "sports_h48",
+            "shareId": "sports",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/sports_h48.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/sports_h48_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-fortyeight/",
+            "category": "home",
+            "tags": ["home", "sports"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "sports_h86",
+            "shareId": "sports",
+            "title": "Home Three",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/sports_h86.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/sports_h86_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-eightysix/",
+            "category": "home",
+            "tags": ["home", "sports"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "toolkit_h90",
+            "shareId": "toolkit",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/toolkit_h90.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/toolkit_h90_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-ninety/",
+            "category": "home",
+            "tags": ["home", "toolkit"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "toolkit_h92",
+            "shareId": "toolkit",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/toolkit_h92.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/toolkit_h92_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-ninetytwo/",
+            "category": "home",
+            "tags": ["home", "toolkit"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "watch_h32",
+            "shareId": "watch",
+            "title": "Home One",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/watch_h32.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/watch_h32_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/default/home-thirtytwo/",
+            "category": "home",
+            "tags": ["home", "watch"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "watch_h57",
+            "shareId": "watch",
+            "title": "Home Two",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/watch_h57.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/watch_h57_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-fiftyseven/",
+            "category": "home",
+            "tags": ["home", "watch"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "watch_h75",
+            "shareId": "watch",
+            "title": "Home Three",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/watch_h75.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/watch_h75_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-seventyfive/",
+            "category": "home",
+            "tags": ["home", "watch"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        },
+
+        {
+            "id": "watch_h82",
+            "shareId": "watch",
+            "title": "Home Four",
+            "thumbnail": "https://api.hasthemes.com/api/99fy/layout-image/thumb/watch_h82.jpg",
+            "fullimage": "https://api.hasthemes.com/api/99fy/layout-image/full/watch_h82_full.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://demo.99fy.org/one/home-eightytwo/",
+            "category": "home",
+            "tags": ["home", "watch"],
+            "isPro": "0",
+            "tmpType": "free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor Addons", 
+                "ht-mega-for-elementor//htmega_addons_elementor.php//HT Mega",
+                "ht-slider-for-elementor//ht-slider-for-elementor.php//HT Slider"
+            ],
+
+            "proPlugins": [],
+            "requiredtheme": "99fy//99Fy Theme"
+        }
+
+        
+    ]
+}
